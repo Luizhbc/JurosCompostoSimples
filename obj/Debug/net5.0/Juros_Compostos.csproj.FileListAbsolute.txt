@@ -1,0 +1,16 @@
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\bin\Debug\net5.0\Juros_Compostos.exe
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\bin\Debug\net5.0\Juros_Compostos.deps.json
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\bin\Debug\net5.0\Juros_Compostos.runtimeconfig.json
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\bin\Debug\net5.0\Juros_Compostos.runtimeconfig.dev.json
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\bin\Debug\net5.0\Juros_Compostos.dll
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\bin\Debug\net5.0\ref\Juros_Compostos.dll
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\bin\Debug\net5.0\Juros_Compostos.pdb
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\obj\Debug\net5.0\Juros_Compostos.csproj.AssemblyReference.cache
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\obj\Debug\net5.0\Juros_Compostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\obj\Debug\net5.0\Juros_Compostos.AssemblyInfoInputs.cache
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\obj\Debug\net5.0\Juros_Compostos.AssemblyInfo.cs
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\obj\Debug\net5.0\Juros_Compostos.csproj.CoreCompileInputs.cache
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\obj\Debug\net5.0\Juros_Compostos.dll
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\obj\Debug\net5.0\ref\Juros_Compostos.dll
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\obj\Debug\net5.0\Juros_Compostos.pdb
+C:\Users\LuizH\Documents\C-SHARP\Juros_Compostos\obj\Debug\net5.0\Juros_Compostos.genruntimeconfig.cache
