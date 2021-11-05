@@ -1,2 +1,2 @@
-Calculadora simples de juros compostos
+Calculadora simples de juros compostos, ainda
 precisa de algumas validações
